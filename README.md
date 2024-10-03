@@ -3,4 +3,4 @@
 
 ![jpg](https://github.com/user-attachments/assets/a1314cd4-747d-4992-8783-0ef2d58da2ee)
 
-> [!WARNING] <b>$${\color{red} Try \space it \space Yourself \space First}$$</b>
+> **⚠ WARNING:** **Try it Yourself First**
