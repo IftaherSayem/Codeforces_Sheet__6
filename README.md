@@ -4,4 +4,4 @@
 ![jpg](https://github.com/user-attachments/assets/a1314cd4-747d-4992-8783-0ef2d58da2ee)
 
 > [!WARNING]
-> $${\color{red}Try it Yourself First}$$
+> $${\color{red}Try\spaceit\spaceYourself\spaceFirst}$$
