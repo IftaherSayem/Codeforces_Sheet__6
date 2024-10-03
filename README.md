@@ -1,4 +1,5 @@
 <h1>Assalamualikum</h1>
-> In this Repository You Find All solution of <font color="#0969DA"> Codeforces Sheet 6 </font>
+> In this Repository You Find All solution of <b>Codeforces Sheet 6</b>
+
 > [!WARNING]
 > First Try it Yourself
